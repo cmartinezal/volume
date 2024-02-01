@@ -53,5 +53,5 @@ To execute the project open the terminal and go to the project folder. Then comp
 
 ```sh
 make volume
-./volume
+./volume input.wav output.wav 0.5
 ```
